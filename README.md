@@ -1,3 +1,3 @@
-# Aplikasi Kelulusan
+# Akun elearning
 
-> Sistem informasi pengumuman kelulusan online.
+> SMK Negeri 1 Pemalang
