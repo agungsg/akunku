@@ -1,2 +1,3 @@
-# akunku
-download akunku
+# Aplikasi Kelulusan
+
+> Sistem informasi pengumuman kelulusan online.
